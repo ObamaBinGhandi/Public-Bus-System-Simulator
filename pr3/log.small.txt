@@ -1,0 +1,111 @@
+*** TIME STEP = 1 ***
+Bus: Bus Stop 0, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 2 ***
+Bus: Bus Stop 1, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 3 ***
+Bus: Bus Stop 2, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 4 ***
+Bus: Bus Stop 3, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 5 ***
+Bus: Bus Stop 4, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 6 ***
+Bus: Bus Stop 5, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 7 ***
+Bus: Bus Stop 6, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 8 ***
+Bus: Bus Stop 7, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+*** TIME STEP = 9 ***
+Bus: Bus Stop 8, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Total sim time: 10
+Total passengers: 1
+Passenger throughput: 0.10

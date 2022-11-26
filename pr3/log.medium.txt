@@ -1,0 +1,1261 @@
+*** TIME STEP = 1 ***
+Bus: Bus Stop 0, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 2 ***
+Bus: Bus Stop 1, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 3 ***
+Bus: Bus Stop 2, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 4 ***
+Bus: Bus Stop 3, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 5 ***
+Bus: Bus Stop 4, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 6 ***
+Bus: Bus Stop 5, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 7 ***
+Bus: Bus Stop 6, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 8 ***
+Bus: Bus Stop 7, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 9 ***
+Bus: Bus Stop 8, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 10 ***
+Bus: Bus Stop 9, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 11 ***
+Bus: Bus Stop 10, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 1
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 12 ***
+Bus: Bus Stop 11, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 1
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 13 ***
+Bus: Bus Stop 12, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 14 ***
+Bus: Bus Stop 13, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 15 ***
+Bus: Bus Stop 14, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 1
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 16 ***
+Bus: Bus Stop 0, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 1
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 17 ***
+Bus: Bus Stop 1, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 1
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 18 ***
+Bus: Bus Stop 2, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 19 ***
+Bus: Bus Stop 3, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 1
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 20 ***
+Bus: Bus Stop 4, passengers 5
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 21 ***
+Bus: Bus Stop 5, passengers 5
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 22 ***
+Bus: Bus Stop 6, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 23 ***
+Bus: Bus Stop 7, passengers 5
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 24 ***
+Bus: Bus Stop 8, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 25 ***
+Bus: Bus Stop 9, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 26 ***
+Bus: Bus Stop 10, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 27 ***
+Bus: Bus Stop 11, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 28 ***
+Bus: Bus Stop 12, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 29 ***
+Bus: Bus Stop 13, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 1
+Bus Stop 14:  waiting 0
+*** TIME STEP = 30 ***
+Bus: Bus Stop 14, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 31 ***
+Bus: Bus Stop 0, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 32 ***
+Bus: Bus Stop 1, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 33 ***
+Bus: Bus Stop 2, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 1
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 34 ***
+Bus: Bus Stop 3, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 35 ***
+Bus: Bus Stop 4, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 36 ***
+Bus: Bus Stop 5, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 37 ***
+Bus: Bus Stop 6, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 38 ***
+Bus: Bus Stop 7, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 39 ***
+Bus: Bus Stop 8, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 40 ***
+Bus: Bus Stop 9, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 1
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 41 ***
+Bus: Bus Stop 10, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 42 ***
+Bus: Bus Stop 11, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 43 ***
+Bus: Bus Stop 12, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 44 ***
+Bus: Bus Stop 13, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 45 ***
+Bus: Bus Stop 14, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 1
+*** TIME STEP = 46 ***
+Bus: Bus Stop 0, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 47 ***
+Bus: Bus Stop 1, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 48 ***
+Bus: Bus Stop 2, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 49 ***
+Bus: Bus Stop 3, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 50 ***
+Bus: Bus Stop 4, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 51 ***
+Bus: Bus Stop 5, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 52 ***
+Bus: Bus Stop 6, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 53 ***
+Bus: Bus Stop 7, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 1
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 54 ***
+Bus: Bus Stop 8, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 55 ***
+Bus: Bus Stop 9, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 56 ***
+Bus: Bus Stop 10, passengers 0
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 1
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 57 ***
+Bus: Bus Stop 11, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 58 ***
+Bus: Bus Stop 12, passengers 1
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 59 ***
+Bus: Bus Stop 13, passengers 1
+Bus Stop 0:  waiting 1
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 60 ***
+Bus: Bus Stop 14, passengers 1
+Bus Stop 0:  waiting 1
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 61 ***
+Bus: Bus Stop 0, passengers 1
+Bus Stop 0:  waiting 1
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 62 ***
+Bus: Bus Stop 1, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 63 ***
+Bus: Bus Stop 2, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 64 ***
+Bus: Bus Stop 3, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 65 ***
+Bus: Bus Stop 4, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 1
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 66 ***
+Bus: Bus Stop 5, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 67 ***
+Bus: Bus Stop 6, passengers 3
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 1
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 68 ***
+Bus: Bus Stop 7, passengers 4
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 69 ***
+Bus: Bus Stop 8, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 70 ***
+Bus: Bus Stop 9, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 71 ***
+Bus: Bus Stop 10, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 72 ***
+Bus: Bus Stop 11, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 73 ***
+Bus: Bus Stop 12, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+*** TIME STEP = 74 ***
+Bus: Bus Stop 13, passengers 2
+Bus Stop 0:  waiting 0
+Bus Stop 1:  waiting 0
+Bus Stop 2:  waiting 0
+Bus Stop 3:  waiting 0
+Bus Stop 4:  waiting 0
+Bus Stop 5:  waiting 0
+Bus Stop 6:  waiting 0
+Bus Stop 7:  waiting 0
+Bus Stop 8:  waiting 0
+Bus Stop 9:  waiting 0
+Bus Stop 10:  waiting 0
+Bus Stop 11:  waiting 0
+Bus Stop 12:  waiting 0
+Bus Stop 13:  waiting 0
+Bus Stop 14:  waiting 0
+Total sim time: 75
+Total passengers: 20
+Passenger throughput: 0.27
